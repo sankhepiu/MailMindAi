@@ -62,7 +62,7 @@ Frontend:
 https://mail-mind-ai-sooty.vercel.app
 
 Backend Docs:
-https://mailmindai-053u.onrender.com
+https://your-render-app.onrender.com/docs
 
 ## Author
 
