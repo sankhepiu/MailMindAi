@@ -54,7 +54,7 @@ npm run dev
 
 Visit:
 
-http://localhost:8000/docs
+https://mail-mind-caxiwzy42-piuu.vercel.app
 
 ## Live Demo
 
