@@ -56,6 +56,14 @@ Visit:
 
 http://localhost:8000/docs
 
+## Live Demo
+
+Frontend:
+https://mail-mind-ai-sooty.vercel.app
+
+Backend Docs:
+https://mailmindai-053u.onrender.com
+
 ## Author
 
 Pruthvi Sankhe
